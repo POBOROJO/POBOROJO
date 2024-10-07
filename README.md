@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript,NodeJs,Express,React,C++**
 
-- 📫 How to reach me **https://www.linkedin.com/in/parijat-bhattacharjee-97741a177/**
+- 📫 How to reach me **parijat.vercel.app**
 
 - ⚡ Fun fact **I make good coffee,and have novice skills in guitar and singing :-P**
 
