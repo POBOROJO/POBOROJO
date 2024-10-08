@@ -2,6 +2,8 @@
 <h3 align="center">A passionate individual learning full-stack development from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poborojo&label=Profile%20views&color=0e75b6&style=flat" alt="poborojo" /> </p>
 
+![hustle](https://github.com/user-attachments/assets/6f6111ef-f9ed-483b-9714-165ba9db9dc4)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poborojo" alt="poborojo" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/parijatbhattac4" target="blank"><img src="https://img.shields.io/twitter/follow/parijatbhattac4?logo=twitter&style=for-the-badge" alt="parijatbhattac4" /></a> </p>
