@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parijat Bhattacharjee</h1>
 <h3 align="center">A passionate individual learning full-stack development from India.</h3>
-![Hustle](https://github.com/user-attachments/assets/6f5fd6cd-af02-4d73-9220-4fca897a6c76)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poborojo&label=Profile%20views&color=0e75b6&style=flat" alt="poborojo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poborojo" alt="poborojo" /></a> </p>
